@@ -1,5 +1,4 @@
-body
-{
+body{
     color: rgb(31, 31, 23);
     text-align: center;
     font-family: "Arial";
@@ -35,4 +34,11 @@ body
 }
 p{
     font-size: 30px;
+}
+footer{
+    width: 67%;
+    height: 60px;
+    background: greenyellow;
+    font-size: 40px;
+    margin: 0 auto;
 }
